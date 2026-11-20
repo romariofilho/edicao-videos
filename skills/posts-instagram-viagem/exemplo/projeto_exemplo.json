@@ -1,0 +1,15 @@
+{
+  "pasta": "~/Imagens/2026-01 - Minha viagem",
+  "tmp": "saida/_tmp",
+  "titulo": {"nome": "Nome do lugar", "marca": "MARCA OU HOSPEDAGEM", "local": "Cidade · UF"},
+  "musica": "minha_musica.mp3",
+  "musica_inicio": 5.5,
+  "cenas": [
+    {"src": "Pessoa2/video_01.mp4", "ss": 14, "d": 7.5, "cap": "@TITLE"},
+    {"src": "Pessoa1/video_02.mp4", "ss": 2, "d": 3.5},
+    {"src": "Pessoa1/video_03.mp4", "ss": 0, "d": 6},
+    {"src": "Pessoa2/video_04.mp4", "ss": 3, "d": 10, "cap": "legenda curta da cena"},
+    {"src": "Pessoa1/video_05.mp4", "ss": 30, "d": 5, "cap": "legenda em duas linhas\nusa \\n para quebrar"},
+    {"src": "Pessoa1/video_06.mp4", "ss": 0, "d": 5}
+  ]
+}
